@@ -1,11 +1,14 @@
 ## Hi there 👋
  Hey! Nice to see you.
 <hr>
-<h2>Things I code with </h2>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<h2>Things I code with</h2>
+
+![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg)
+![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
 
 <!--
 **bong-suk/bong-suk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
