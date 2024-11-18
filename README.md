@@ -1,4 +1,4 @@
-## Hi there 👋
+ ![image](https://github.com/user-attachments/assets/cb318a7c-7015-43d6-955d-cb5571a1d242)
  Hey! Nice to see you.
 <hr>
 <h2>Things I code with</h2>
